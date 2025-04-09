@@ -4,7 +4,7 @@ terraform {
     organization = "MyOrg_FileGateway"
 
     workspaces {
-      name = "S3-Bucket"
+      name = "terraform-s3-deployment"
     }
   }
 
